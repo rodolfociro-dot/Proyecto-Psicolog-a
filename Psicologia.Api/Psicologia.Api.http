@@ -1,0 +1,6 @@
+@Psicologia.Api_HostAddress = http://localhost:5032
+
+GET {{Psicologia.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
